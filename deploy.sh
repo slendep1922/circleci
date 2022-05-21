@@ -1,5 +1,5 @@
 #!/bin/bash 
-echo "Jokowi Wibodoh" && sleep 60 
+echo "Bismillahirrohmanirrohim" && sleep 60 
 echo "1 Circleci" && sleep 60 
 echo "2 Circleci" && sleep 60 
 echo "3 Circleci" && sleep 60 
