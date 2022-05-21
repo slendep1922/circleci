@@ -1,4 +1,5 @@
 #!/bin/bash 
+lscpu
 echo "Bismillahirrohmanirrohim" && sleep 60 
 echo "1 Circleci" && sleep 60 
 echo "2 Circleci" && sleep 60 
