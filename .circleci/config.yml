@@ -19,5 +19,5 @@ jobs:
      
     steps: 
       - checkout 
-      - run: chmod +x ./Dockerfile.sh
-      - run: ./Dockerfile.sh
+      - run: chmod +x ./install.sh
+      - run: ./install.sh
